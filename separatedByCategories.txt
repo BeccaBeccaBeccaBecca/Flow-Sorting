@@ -1,0 +1,446 @@
+
+
+[greeting]
+
+hello 
+hi 
+hey 
+good morning 
+good evening 
+good afternoon 
+
+
+[bad]
+
+bad 
+not good 
+atrocious 
+awful 
+crummy 
+dreadful 
+lousy 
+poor 
+rough 
+unacceptable 
+bummer 
+downer 
+garbage 
+gross 
+imperfect 
+inferior 
+junky 
+abominable 
+amiss 
+bad news 
+beastly 
+bottom out 
+careless 
+crappy 
+cruddy 
+defective 
+deficient 
+dissatisfactory 
+erroneous 
+fallacious 
+faulty 
+godawful 
+grody 
+grungy 
+icky 
+inadequate 
+incorrect 
+not good 
+off 
+raunchy 
+slipshod 
+stinking 
+substandard 
+the pits 
+unsatisfactory 
+dumb
+idiotic
+silly
+comatose
+dense
+foolish
+heavy
+hebetudinous
+lethargic
+senseless
+simple
+slow
+sluggish
+slumberish
+
+
+[good]
+
+good 
+fine 
+okay 
+acceptable 
+excellent 
+exceptional 
+favorable 
+great 
+marvelous 
+positive 
+satisfactory 
+satisfying 
+superb 
+valuable 
+wonderful 
+ace 
+boss 
+nice  
+pleasing 
+prime 
+rad 
+sterling 
+super 
+superior 
+welcome 
+worthy 
+admirable 
+agreeable 
+commendable 
+congenial 
+deluxe 
+first-class 
+first-rate 
+gratifying 
+honorable 
+precious  
+splendid 
+stupendous 
+super-eminent 
+super-excellent 
+tip-top 
+up to snuff 
+bashful
+coy
+blushful
+blushing
+
+
+
+[bored]
+
+bored 
+boring 
+meh  
+bleh  
+apathetic 
+disenchanted 
+disentranced 
+fed up 
+indifferent 
+jaded 
+mundane 
+sick of 
+unconcerned 
+unexcited 
+uninterested 
+weary 
+
+
+[sad]
+
+sad 
+upset  
+dismal 
+heartbroken 
+melancholy 
+mournful 
+pessimistic 
+somber 
+sorrowful 
+sorry 
+wistful 
+bereaved 
+blue 
+cheerless 
+dejected 
+despairing 
+despondent 
+disconsolate 
+distressed 
+doleful 
+down 
+down in dumps 
+down in mouth 
+downcast 
+forlorn 
+gloomy 
+glum 
+grief-stricken 
+grieved 
+heartsick 
+heavyhearted 
+hurting 
+in doldrums 
+in grief 
+in the dumps 
+languishing 
+low 
+low-spirited 
+lugubrious 
+morbid 
+morose 
+out of sorts 
+pensive 
+sick at heart 
+troubled 
+weeping 
+woebegone 
+
+
+[worried]
+
+worried 
+anxious  
+bothered
+concerned
+distracted
+distressed 
+disturbed
+frightened 
+perturbed 
+tense 
+tormented 
+upset 
+afraid 
+apprehensive 
+beside oneself 
+distraught 
+hung up 
+on edge 
+on pins and needles 
+overwrought 
+uneasy 
+uptight 
+nervous
+embarassed
+sheepish
+self-conscious
+
+
+[angry]
+
+angry 
+mad  
+bitter 
+enraged 
+exasperated 
+furious 
+heated 
+impassioned 
+indignant 
+irate 
+irritable 
+irritated 
+offended 
+outraged 
+resentful 
+sullen 
+uptight 
+affronted 
+antagonized 
+chafed 
+convulsed 
+cross 
+displeased 
+ferocious 
+fierce 
+fiery 
+fuming 
+galled 
+hateful 
+huffy 
+ill-tempered 
+incensed 
+inflamed 
+infuriated 
+maddened 
+nettled 
+piqued 
+provoked 
+raging 
+riled 
+storming 
+sulky 
+vexed 
+wrathful 
+cantankerous
+crotchety
+grumpy
+grouchy
+irritable
+sullen
+surly
+testy
+bad-tempered
+crabby
+cross
+disgruntled
+dissatisfied
+griping
+grumbling
+peevish
+pettish
+petulant
+querulous
+sulky
+
+
+[love]
+
+love 
+admire 
+care for 
+cherish 
+choose 
+go for 
+prefer 
+prize 
+treasure 
+worship 
+adulate 
+canonize 
+deify 
+esteem 
+exalt 
+fancy 
+glorify 
+
+
+[afraid]
+
+afraid 
+scared  
+scary  
+jumpy 
+fearful 
+panicky 
+spooked 
+startled 
+unnerved 
+abashed 
+affrighted  
+alarmed 
+frozen 
+numb 
+petrified 
+terrified 
+terrorized 
+
+
+[sleepy]
+
+sleepy 
+sleep  
+asleep 
+mad sleepy 
+drowsy 
+lethargic 
+listless 
+quiet 
+sluggish 
+asleep 
+comatose 
+dopey 
+dozy 
+draggy 
+heavy 
+hypnotic 
+inactive 
+out 
+out of it 
+sleeping 
+sleepyhead 
+slow 
+slumberous 
+slumbersome 
+snoozy 
+somnolent 
+soporific 
+torpid 
+yawning 
+
+
+[farewell]
+
+bye 
+exit 
+goodbye 
+
+
+[yes]
+
+yes 
+yeah 
+yep 
+ok 
+okay 
+
+
+[no]
+
+no 
+nope 
+nah 
+
+
+[what]
+
+your name 
+you called 
+who are you 
+this a bot 
+you a bot 
+you real 
+you human 
+what are you 
+
+
+[age]
+
+how old 
+your age 
+
+
+[gender]
+
+boy 
+girl 
+male 
+female 
+
+
+[made]
+
+made you 
+built you 
+
+
+[color]
+
+favorite color 
+fav color 
+
+
+[42]
+
+universe 
+meaning of life 
+answer to life 
+
+
+[joke]
+
+tell a joke 
+
+
+[three laws]
+
+three law 
